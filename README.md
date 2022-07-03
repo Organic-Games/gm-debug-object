@@ -1,2 +1,2 @@
-# debug-object
-Quickly debug things in GameMaker. That's about it.
+# Debug Object
+**Debug things in GameMaker** *(that's about it)*
